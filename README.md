@@ -44,11 +44,11 @@ The following endpoints should now be available to retrieve the mock data for th
 
 To get all available schedules, the data should be available at the following endpoint:
 
-http://localhost:3000/schedules
+http://localhost:4000/schedules
 
 Likewise, to get all available schedule log entries use:
 
-http://localhost:3000/scheduleLogs
+http://localhost:4000/scheduleLogs
 
 The mock server can accept standard REST requests such as GET, POST, PUT and DELETE. It is also capable of retrieving specific data based on query strings. Please use as necessary.
 
